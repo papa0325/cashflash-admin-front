@@ -1,0 +1,395 @@
+{
+  "pages": {
+    "titles": {
+      "dashboard": "Dashboard"
+    }
+  },
+  "coins": {
+    "btc": "Bitcoin",
+    "usd": "USD",
+    "ltc": "Litecoin",
+    "dash": "Dash coin",
+    "eth": "Ethereum",
+    "tron": "Tron",
+    "eos": "Eos",
+    "USDTe": "USDT(erc)",
+    "USDTt": "USDT(trc)",
+    "xml": "XML",
+    "xrp": "XRP",
+    "bth": "Bitcoin cash"
+  },
+  "dashboard": {
+    "topCards": {
+      "titles": {
+        "customers": "Customers",
+        "merchants": "Merchants",
+        "purchases": "Purchases",
+        "turnover": "Turnover",
+        "average": "Average purchase",
+        "income": "Income",
+        "fiat": "Overall fiat balance",
+        "crypto": "Overall crypto balance"
+      },
+      "since": "Since last month"
+    },
+    "chart": {
+      "title": "Overview",
+      "sub": "Total turnover"
+    },
+    "buttons": {
+      "1m": "Month",
+      "1y": "Year"
+    },
+    "table": {
+      "title": "Last purchases"
+    }
+  },
+  "merchants": {
+    "title": "Merchants",
+    "tier": "Verify Tier 4",
+    "show": "Show documents",
+    "last": "Last merchants",
+    "downloadReports": "Download reports",
+    "purchases": "Purchases",
+    "modals": {
+      "verification": {
+        "title": "Verification",
+        "labels": {
+          "attach": "Attach interview files",
+          "comment": "Comment"
+        }
+      },
+      "files": {
+        "title": "Verifying files",
+        "labels": {
+          "files": "Interview files",
+          "click": "Click to download the file",
+          "comment": "Comment"
+        }
+      }
+    },
+    "table": {
+      "title": "Merchants list"
+    },
+    "graphs": {
+      "gross": "Gross volume",
+      "newCustomers": "New customers",
+      "spend": "Spend per customer"
+    },
+    "tabs": {
+      "details": "Details",
+      "reports": "Reports",
+      "statistics": "Statistics"
+    },
+    "statistics": {
+      "titles": {
+        "bank": "Bank transfers",
+        "other": "Other payments"
+      }
+    }
+  },
+  "refunds": {
+    "title": "Refunds",
+    "table": {
+      "title": "Transactions",
+      "other": "Other payments"
+    }
+  },
+  "reports": {
+    "blocks": {
+      "titles": {
+        "purchases": "Purchases",
+        "customers": "Customers",
+        "merchants": "Merchants",
+        "refunds": "Refunds",
+        "full": "Full reports"
+      },
+      "purchases": {
+        "typeOne": "Charts",
+        "typeTwo": "Transactions",
+        "typeThree": "Balance"
+      },
+      "customers": {
+        "typeOne": "Transaction History",
+        "typeTwo": "Lorem ipsum",
+        "typeThree": "Lorem ipsum"
+      },
+      "merchants": {
+        "typeOne": "Balances",
+        "typeTwo": "Lorem ipsum",
+        "typeThree": "Lorem ipsum"
+      },
+      "refunds": {
+        "typeOne": "Full information",
+        "typeTwo": "Lorem ipsum",
+        "typeThree": "Lorem ipsum"
+      },
+      "full": {
+        "typeOne": "Full information",
+        "typeTwo": "Lorem ipsum",
+        "typeThree": "Lorem ipsum"
+      }
+    },
+    "charts": {
+      "titles": {
+        "gross": "gross volume",
+        "net": "net volume",
+        "new": "new customers",
+        "spent": "spent per customer"
+      }
+    },
+    "modals": {
+      "title": "Reports download",
+      "labels": {
+        "interval": "Choose interval",
+        "format": "Choose format",
+        "type": "Choose type"
+      },
+      "placeholders": {
+        "range": "Select date range"
+      }
+    }
+  },
+  "help": {
+    "title": "Help / FAQ",
+    "modals": {
+      "addNew": {
+        "title": "New question",
+        "labels": {
+          "add": "Add a question"
+        },
+        "placeholders": {
+          "text": "Text"
+        }
+      },
+      "edit": {
+        "title": "Edit question",
+        "labels": {
+          "edit": "Edit a question",
+          "add": "Edit a title"
+        },
+        "placeholders": {
+          "text": "Text"
+        }
+      },
+      "delete": {
+        "title": "Delete question",
+        "confirmText": "Are you sure ?"
+      }
+    }
+  },
+  "admins": {
+    "statuses": {
+      "active": "Active",
+      "banned": "Banned",
+      "pending": "Pending"
+    },
+    "title": "Admins",
+    "add": "Add new admin",
+    "table": {
+      "title" : "Admins list"
+    },
+    "modals": {
+      "new" : {
+        "title": "Add a new admin",
+        "descp": "Enter email to send an invite",
+        "send": "Send invite"
+      }
+    }
+  },
+  "labels": {
+    "email": "Email",
+    "userId": "User ID",
+    "userName": "User name",
+    "username": "User name",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phone": "Phone",
+    "birthDate": "Date of birth",
+    "address": "Address",
+    "createdAt": "Register date",
+    "shop": "Shop",
+    "txCreatedAt": "Purchase date/time",
+    "refundCreatedAt": "Refund request date/time",
+    "refundAmount": "Refund amount",
+    "txId": "Purchse ID",
+    "merchantId": "Merchant ID",
+    "customerId": "Customer ID",
+    "refundWallet": "Refund wallet",
+    "refundList": "Refund list",
+    "customer": "Customer",
+    "state": "State/Region",
+    "country": "Country",
+    "zip": "ZIP/Postal code",
+    "web": "Website",
+    "businessName": "Legal name of business",
+    "industry": "industry",
+    "streetNumber": "Street number",
+    "streetName": "Street name",
+    "unit": "Unit",
+    "city" : "City",
+    "verificationLevel": "Verification level"
+  },
+  "meta": {
+    "set": "Set",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "forgot": "Forgot password?",
+    "confirm": "Confirm",
+    "back": "Back",
+    "resetPassword": "Reset password",
+    "ok": "OK",
+    "welcome": "Welcome",
+    "save": "Save",
+    "welcomeSub": "to cashflash admin panel!",
+    "close": "Close",
+    "viewDetails": "View details",
+    "download": "Download",
+    "add": "Add",
+    "changeLimits": "Change limits",
+    "since": "Since last month",
+    "edit": "Edit",
+    "update": "Update",
+    "delete": "Delete",
+    "block": "Block",
+    "unblock": "Unblock",
+    "copy": "Copy",
+    "link": "Link",
+    "seeAll": "See all"
+  },
+  "settings": {
+    "titles": {
+      "currencies": "Currencies",
+      "limits": "Verification limits",
+      "wallets": "Wallets",
+      "defCurrency": "Default currency"
+    },
+    "daily": "Daily volume limit",
+    "annual": "Annual limit",
+    "unlimited": "Unlimited",
+    "limits": {
+      "unverified": "Unverified",
+      "basic": "Basic",
+      "tierTwo": "Tier 2",
+      "tierThree": "Tier 3",
+      "tierFour": "Tier 4"
+    }
+  },
+  "navbar": {
+    "dashboard": "Dashboard",
+    "currencies": "Currencies",
+    "settings": "Settings",
+    "transactions": "Purchases",
+    "customers": "Customers",
+    "merchants": "Merchants",
+    "refund": "Refund",
+    "reports": "Reports",
+    "help": "Help",
+    "admins": "Admins"
+  },
+  "statuses": {
+    "success": "Success",
+    "pending": "Pending",
+    "failed": "Failed",
+    "refundRequested" : "Refund requested",
+    "refundCompleted": "Refund completed",
+    "refundDeclined": "Refund declined"
+  },
+  "inputs": {
+    "email": "Email",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "password": "Password",
+    "code": "Code",
+    "passwordConfirm": "Confirm password",
+    "search": "Search..."
+  },
+  "tables": {
+    "titles": {
+      "lastTx": "Last purchases"
+    },
+    "fields": {
+      "name": "Name",
+      "shop": "Shop",
+      "customer": "Customer",
+      "status": "Status",
+      "order": "Order #",
+      "date": "Date",
+      "amount": "Amount",
+      "hash": "Hash",
+      "wallet": "Wallet",
+      "item-list": "Item list",
+      "totalAmount": "Total amount",
+      "totalAmountUSD": "Total amount (USD)",
+      "txs": "Transactions"
+    }
+  },
+  "placeholders": {
+    "email": "admin@cashflash.com",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "password": "Password",
+    "passwordConfirm": "Confirm password",
+    "code": "•••••••"
+  },
+  "signIn": {
+    "titleCode": "Enter a code",
+    "descpCode": "The email with a code was sent to the submitted email address. If you don’t receive a message in 5 minutes, check the junk folder. If you are still experiencing any problems, contact support at support@domain.com"
+  },
+  "forgot": {
+    "title": "Forgot password?",
+    "descp": "Type in your email address below and we'll send you an email with instructions on how to create a new password",
+    "checkEmail": "Check your email",
+    "checkEmailDescp": "The email with further instructions was sent to the submitted email address. If you don’t receive a message in 5 minutes, check the junk folder. If you are still experiencing any problems, contact support at support@domain.com",
+    "createTitle": "Create new password",
+    "createDescp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl rutrum dictum a duis orci sit senectus duis sit neque condimentum proin.",
+    "successTitle": "Your password has been changed successfully!",
+    "successDescp": "Click th button to sign in to RF admin panel"
+  },
+  "modals": {
+    "limits": {
+      "title": "Change limits",
+      "unlimited": "Unlimited"
+    },
+    "refund": {
+      "title": "Refund"
+    }
+  },
+  "customers": {
+    "titles": {
+      "lastCustomers": "Last customers",
+      "customers": "Customers"
+    },
+    "table": {
+      "view": "View profile"
+    },
+    "stats": {
+      "purchases": "Purchases",
+      "descpPurchases": "Since last month",
+      "average": "Average purchase size",
+      "descpAverage": "Since last month"
+    }
+  },
+  "infoPages": {
+    "connectedExchanges": "Connected exchanges",
+    "connectedAccounts": "Connected accounts",
+    "fullInfo": "Full information",
+    "lastTx": "Last purchases",
+    "withdrawalAddresses": "Withdrawal addresses",
+    "verificationInfo": "Verification info"
+  },
+  "transactions": {
+    "title": "Purchases",
+    "table": {
+      "title": "Transactions",
+      "details": "Show details",
+      "purchase": "Purchase"
+    }
+  },
+  "currencies": {
+    "title": "Currencies",
+    "table": {
+      "title": "Coins"
+    }
+  }
+}

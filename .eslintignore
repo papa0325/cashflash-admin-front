@@ -1,0 +1,11 @@
+# Node artifact files
+node_modules/
+dist/
+
+static/*
+
+# JetBrains IDE
+.idea/
+
+.nuxt
+.env

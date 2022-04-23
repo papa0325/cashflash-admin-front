@@ -1,0 +1,50 @@
+//
+// Breadcrumb
+//
+
+.breadcrumb-item {
+    font-size: $font-size-sm;
+}
+
+.breadcrumb-dark {
+    background-color: $breadcrumb-dark-bg;
+
+    .breadcrumb-item {
+        font-weight: 600;
+
+        a {
+            color: $breadcrumb-dark-color;
+
+            &:hover {
+                color: $breadcrumb-dark-hover-color;
+            }
+        }
+
+        + .breadcrumb-item {
+            &::before {
+                color: $breadcrumb-dark-divider-color;
+            }
+        }
+
+        &.active {
+            color: $breadcrumb-dark-active-color;
+        }
+    }
+}
+
+
+// Links
+
+.breadcrumb-links {
+    padding: 0;
+    margin: 0;
+    background: transparent;
+}
+
+.sub-router {
+  padding-left: 28px;
+  color: #8898AA;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+}
